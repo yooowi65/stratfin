@@ -293,7 +293,7 @@ p.voice-content:nth-child(2)::before {
     margin-bottom: 40px;
 }
 .faq-content-q{
-    font-size: 1.2em;
+    font-size: 1em;
 }
 span.faq{
     font-weight: bold;
@@ -307,12 +307,12 @@ span.faq{
 .faq-content-q{
     position: relative;
     display: block;
-    width: 93%;
+    width: 92%;
     padding-left: 1.4em;
     padding-top: 20px;
     transition: all ease-in-out .5s;
     line-height: 1.5;
-    font-size: 1.1em;
+    font-size: 1em;
 }
 .faq-content-q:hover{
     cursor: pointer;
@@ -334,7 +334,7 @@ span.orange{
 .faq-content-q::after{
     content: "＋";
     position: absolute;
-    right: -25px;
+    right: -24px;
     top: 20px;
     font-weight: bold;
     color: #fff;
